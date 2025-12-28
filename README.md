@@ -1,5 +1,10 @@
 # 🧮 Calculator Web App
 
+### 📸 Screenshot
+
+![Calculator](calculator.png)
+
+
 A simple and responsive calculator web application built using HTML, CSS, and JavaScript.  
 This project helped me understand core JavaScript logic, DOM manipulation, and event handling.
 
